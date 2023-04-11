@@ -70,7 +70,7 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f"%mean)
 print("The Variance of arrival from feeder is %.3f"%var)
 print("The Standard deviation of arrival from feeder is %.3f"%SD)
-```py
+```
 
 # Output : 
 ![pqmexp1](https://user-images.githubusercontent.com/118722030/231183289-812521e7-44f0-4529-9ca7-c03b102f56c5.png)
